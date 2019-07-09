@@ -1,5 +1,3 @@
-Api
-$ make 
+Api: $ make 
 
-Database
-$ db-migrate up
+Database: $ db-migrate up

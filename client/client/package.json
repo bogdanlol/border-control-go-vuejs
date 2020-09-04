@@ -15,7 +15,7 @@
     "element-ui": "^2.4.11",
     "js-cookie": "^2.2.0",
     "moment": "^2.23.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "pug": "^2.0.3",
     "qs": "^6.6.0",
     "sass-loader": "^7.1.0",
